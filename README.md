@@ -18,7 +18,7 @@ Current functionality includes:
 
 ## Get started
 ```
-git clone https://github.com/cosmicjs/user-management
+git clone https://github.com/khanhnamle1994/user-management-app
 cd user-management
 npm install
 ```
